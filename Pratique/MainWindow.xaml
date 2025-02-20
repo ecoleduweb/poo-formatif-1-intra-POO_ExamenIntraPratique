@@ -1,0 +1,20 @@
+﻿<Window x:Class="Pratique.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pratique"
+        mc:Ignorable="d"
+        Title="Estimateur de coût de terrain de camping" Height="450" Width="800">
+    <Grid>
+        <!--
+        Voici les différents textes de l'interface : 
+        Options du terrain
+        Branché aux égouts (15$)
+        Prise 20 ampères (10$)
+        Estimer le coût
+        Terrain sauvage
+        Afficher avec services
+        -->
+    </Grid>
+</Window>
